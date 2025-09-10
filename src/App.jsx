@@ -67,12 +67,6 @@ export const App = () => {
         {/*<NetflixSeries/>*/}
         {/*<Footer/>*/}
 
-
-        <div className="text-red-400">
-          Hey there
-        </div>
-
-
       </section>
       // </div>
   )
